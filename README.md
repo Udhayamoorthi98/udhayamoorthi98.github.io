@@ -3,7 +3,7 @@
 
 Automatically deploy your documentation of your project without any CI pipelines. This is achieved by using github actions along with github pages.
 
-Doxygen with auto deployment has been setup in this repository. The documentation for this repository is available at https://github.com/Udhayamoorthi98/eXAMPLE/blob/gh-pages/doc/html/main1_8c.html/
+Doxygen with auto deployment has been setup in this repository. The documentation for this repository is available at https://github.com/Udhayamoorthi98/udhayamoorthi98.github.io/
 
 ## Doxygen - Documentation Setup
 Skip this if you already have doxygen configured 
