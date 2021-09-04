@@ -3,6 +3,20 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=udhayamoorthi98)](https://github.com/anuraghazra/github-readme-stats)
 
 
+### Hi there 👋, udhayamoorthi
+#### Design and Engineering
+I am udhayamoorthi and I do programming and development.
+
+Skills: C / C++ 
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/         udhayamoorthi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackexchange.com/users/22656471/udhayamoorthi)  
+
+
+
+
 
 
 
