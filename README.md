@@ -17,7 +17,7 @@ Skip this if you already have doxygen configured
     * Set `PROJECT_NAME` to the name of your project
 * Optionally add `html` and `latex` to `.gitignore` file
 * Document your code according to Doxygen guidlines
-    * Check `src/main.c` for C style documentation. Output can be seen [here](https://github.com/Udhayamoorthi98/eXAMPLE/blob/gh-pages/doc/html/main1_8c.html).
+    * Check `src/main.c` for C style documentation. Output can be seen [here](https://udhayamoorthi98.github.io/).
    
 ## Configuring automatic publishing using github actions
 * Copy the action file `main.yml` to `.github/workflows/main.yml`
